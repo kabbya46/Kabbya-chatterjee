@@ -49,17 +49,15 @@ CSE Student @ BRAC University • Web Dev & Problem Solving • Madridista ⚽
 - **DSA Playground (Planned)**  
   Implementations of stack, queue, and linked list with benchmarks.  
 
-> These are placeholders for now — once you upload real repos, replace with actual links!
+
 
 ---
 
 ### 📊 GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&rank_icon=github&hide_title=true" alt="stats" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=kabbya46&show_icons=true&hide_title=true" /></p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact" alt="top langs" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabbya46&layout=compact" /> </p>
 
 ---
 
