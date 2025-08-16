@@ -64,4 +64,4 @@ CSE Student @ BRAC University • Web Dev & Problem Solving • Madridista ⚽
 ### 🤝 Connect
 - 📧 University: dibbyajoti.chatterjee.kabbya@g.bracu.ac.bd  
 - 📧 Personal: dibbyachatterjee46@gmail.com  
-- 🔗 LinkedIn: https://www.linkedin.com/in/your-link/ (add your link here)
+- 🔗 LinkedIn: https://www.linkedin.com/in/kabbya-chatterjee
